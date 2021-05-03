@@ -1,0 +1,9 @@
+flask
+
+flask_cors
+
+datetime
+
+requests
+
+boto3
